@@ -1,9 +1,7 @@
-#img-bg{
-    background-image: url('../../img/fotocapa.jpg');
+
+
+  #carouselExampleSlidesOnly{
+    height: 650px;
+      width: 673px;
   
-    min-height: 695px;
-  
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
   }
